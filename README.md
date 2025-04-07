@@ -27,4 +27,12 @@ Este projeto é uma aplicação RESTful simples para cadastro, atualização, bu
 - Analise pode seguir na direção de buscar uma integração nativa com o spring-boot onde poderiamos conseguir via Thymeleaf, muito embora não seja baseado em SPA, mas ideal para soluções de simples a moderadas que nao e nosso caso, logo contando com diversos aspectos negativos como falta de escalabilidade comparado a frameworks modernos
 - Seguir a tendência de mercado e apostar na relação React/Angular, focando em React, contando com grande comunidade e de fácil integração com serviços REST, a principal implicação negativa se deve a curva de aprendizado.
 
+## 📌 Assuntos Importantes
+- 🧩 **DTOs:** Modelo de dados com encapsulamento
+- 🛠️ **Persistência:** EntityManager + UserRepository
+- 💌 **Email Service:** Serviço mock para simples representação via `EmailImpl`
+- 🚨 **Tratamento de Erros:** Exceções personalizadas com `ObjectNotFoundInSearch`
+- 🌐 **Frontend (ideias):** React ou Vue para consumo dos endpoints REST
+- 📄 **Documentação:** Endpoints REST padronizados via swagger
+
 ---
