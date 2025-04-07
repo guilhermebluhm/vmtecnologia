@@ -1,0 +1,10 @@
+INSERT INTO tbl_user (name, email, password) VALUES ('Alice Silva', 'alice@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Bruno Costa', 'bruno@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Carlos Lima', 'carlos@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Daniela Rocha', 'daniela@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Eduardo Nunes', 'eduardo@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Fernanda Teixeira', 'fernanda@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Gustavo Martins', 'gustavo@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Helena Souza', 'helena@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Igor Almeida', 'igor@email.com', 'senha123');
+INSERT INTO tbl_user (name, email, password) VALUES ('Juliana Vieira', 'juliana@email.com', 'senha123');
